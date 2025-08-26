@@ -113,9 +113,15 @@
               </button>
               <button
                 @click="analyzeRecord(record)"
-                class="text-green-600 hover:text-green-900 text-sm font-medium"
+                class="text-green-600 hover:text-green-900 text-sm font-medium mr-3"
               >
                 Analyze
+              </button>
+              <button
+                @click="analyzeAgent(record)"
+                class="text-purple-600 hover:text-purple-900 text-sm font-medium"
+              >
+                Agent
               </button>
             </td>
           </tr>
@@ -169,6 +175,12 @@
       :record="recordToAnalyze"
       @close="recordToAnalyze = null"
     />
+
+    <AgentAnalysisModal
+      v-if="recordForAgentAnalysis"
+      :record="recordForAgentAnalysis"
+      @close="recordForAgentAnalysis = null"
+    />
   </div>
 </template>
 
@@ -196,6 +208,7 @@ export default {
     const itemsPerPage = 10
     const selectedRecord = ref(null)
     const recordToAnalyze = ref(null)
+    const recordForAgentAnalysis = ref(null)
 
     const uniqueAgents = computed(() => {
       return [...new Set(props.salesData.map(r => r.salesAgentName))].sort()
@@ -276,12 +289,17 @@ export default {
       recordToAnalyze.value = record
     }
 
+    const analyzeAgent = (record) => {
+      recordForAgentAnalysis.value = record
+    }
+
     return {
       filters,
       currentPage,
       itemsPerPage,
       selectedRecord,
       recordToAnalyze,
+      recordForAgentAnalysis,
       uniqueAgents,
       uniqueOutcomes,
       uniqueRegions,
@@ -295,6 +313,7 @@ export default {
       getOutcomeClass,
       showTranscript,
       analyzeRecord,
+      analyzeAgent,
       formatCurrency,
       formatDuration
     }

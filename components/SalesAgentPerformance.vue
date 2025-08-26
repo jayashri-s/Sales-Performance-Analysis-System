@@ -15,6 +15,12 @@
           <div class="text-right">
             <p class="text-2xl font-bold text-green-600">{{ formatCurrency(agent.totalRevenue) }}</p>
             <p class="text-sm text-gray-600">{{ agent.conversionRate.toFixed(1) }}% conversion</p>
+            <button
+              @click="analyzeAgent(name)"
+              class="text-xs text-purple-600 hover:text-purple-900 font-medium mt-1 block"
+            >
+              Analyze Agent →
+            </button>
           </div>
         </div>
         
@@ -43,11 +49,17 @@
         </div>
       </div>
     </div>
+    
+    <AgentAnalysisModal
+      v-if="selectedAgentForAnalysis"
+      :record="selectedAgentForAnalysis"
+      @close="selectedAgentForAnalysis = null"
+    />
   </div>
 </template>
 
 <script>
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { formatCurrency, formatDuration } from '~/utils/salesAnalysis'
 
 export default {
@@ -59,6 +71,8 @@ export default {
     }
   },
   setup(props) {
+    const selectedAgentForAnalysis = ref(null)
+
     const sortedAgents = computed(() => {
       return Object.entries(props.agentData)
         .sort((a, b) => b[1].totalRevenue - a[1].totalRevenue)
@@ -83,10 +97,20 @@ export default {
       return classes[outcome] || 'bg-gray-100 text-gray-700'
     }
 
+    const analyzeAgent = (agentName) => {
+      // Create a mock record for the agent analysis
+      selectedAgentForAnalysis.value = {
+        salesAgentName: agentName,
+        voiceNoteTranscript: `Sample transcript for analysis of agent ${agentName}. This would contain the actual conversation transcript in a real scenario.`
+      }
+    }
+
     return {
+      selectedAgentForAnalysis,
       sortedAgents,
       maxRevenue,
       getOutcomeClass,
+      analyzeAgent,
       formatCurrency,
       formatDuration
     }

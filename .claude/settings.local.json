@@ -6,7 +6,8 @@
       "Bash(python:*)",
       "Bash(where node)",
       "Bash(copy:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(node:*)"
     ],
     "deny": [],
     "ask": []
