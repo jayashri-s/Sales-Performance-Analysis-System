@@ -1,0 +1,2994 @@
+[
+  {
+    "id": 1,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Tara Sharma",
+    "callTimestamp": "2025-07-12T11:29:00",
+    "callDurationSec": 514,
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "demo-booked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Tara Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, customizable course paths, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 2,
+    "salesAgentName": "Meera Khan",
+    "customerName": "Suresh Kumar",
+    "callTimestamp": "2025-07-09T11:24:00",
+    "callDurationSec": 668,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Meera Khan from LMES. I spoke with Suresh Kumar regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, certification issuance, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: send proposal."
+  },
+  {
+    "id": 3,
+    "salesAgentName": "Sana Shetty",
+    "customerName": "Rakesh Naidu",
+    "callTimestamp": "2025-07-31T09:27:00",
+    "callDurationSec": 315,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 49990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "parent",
+      "upsell",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Shetty from LMES. I spoke with Rakesh Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, integration with Google Classroom and Zoom, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: schedule demo."
+  },
+  {
+    "id": 4,
+    "salesAgentName": "Priya Mukherjee",
+    "customerName": "Krishna Kumar",
+    "callTimestamp": "2025-07-29T09:41:00",
+    "callDurationSec": 289,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 4990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "negative",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Mukherjee from LMES. I spoke with Krishna Kumar regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, certification issuance, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: no further action yet."
+  },
+  {
+    "id": 5,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Karthik Subramani",
+    "callTimestamp": "2025-07-28T15:35:00",
+    "callDurationSec": 345,
+    "region": "Rajasthan",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "neutral",
+    "tags": [
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Karthik Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, role-based access control, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: no further action yet."
+  },
+  {
+    "id": 6,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Sai Kulkarni",
+    "callTimestamp": "2025-06-11T15:29:00",
+    "callDurationSec": 203,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 4990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Sai Kulkarni regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, secure payment gateway integration, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 7,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Aditya Menon",
+    "callTimestamp": "2025-06-23T09:33:00",
+    "callDurationSec": 839,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "demo-booked",
+      "cold-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Aditya Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, mobile-friendly student app, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 8,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sana Pillai",
+    "callTimestamp": "2025-06-27T13:58:00",
+    "callDurationSec": 663,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sana Pillai regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, analytics dashboard for student progress, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 9,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Dharshan Naidu",
+    "callTimestamp": "2025-07-25T15:58:00",
+    "callDurationSec": 788,
+    "region": "Gujarat",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "neutral",
+    "tags": [
+      "cross-sell",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Dharshan Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, bulk student import and progress reports, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: no further action yet."
+  },
+  {
+    "id": 10,
+    "salesAgentName": "Pooja Subramani",
+    "customerName": "Rakesh Bose",
+    "callTimestamp": "2025-06-21T15:03:00",
+    "callDurationSec": 810,
+    "region": "Karnataka",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "negative",
+    "tags": [
+      "cold-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Pooja Subramani from LMES. I spoke with Rakesh Bose regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, bulk student import and progress reports, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: send proposal."
+  },
+  {
+    "id": 11,
+    "salesAgentName": "Sai Prasad",
+    "customerName": "Ananya Khan",
+    "callTimestamp": "2025-06-01T16:09:00",
+    "callDurationSec": 731,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sai Prasad from LMES. I spoke with Ananya Khan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, integration with Google Classroom and Zoom, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 12,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Riya Verma",
+    "callTimestamp": "2025-07-02T16:01:00",
+    "callDurationSec": 445,
+    "region": "Maharashtra",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 49990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Riya Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, customizable course paths, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: await payment link."
+  },
+  {
+    "id": 13,
+    "salesAgentName": "Sai Prasad",
+    "customerName": "Priya Yadav",
+    "callTimestamp": "2025-07-31T12:39:00",
+    "callDurationSec": 610,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sai Prasad from LMES. I spoke with Priya Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, customizable course paths, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: schedule demo."
+  },
+  {
+    "id": 14,
+    "salesAgentName": "Sanjay Ali",
+    "customerName": "Nisha Naidu",
+    "callTimestamp": "2025-06-17T14:04:00",
+    "callDurationSec": 295,
+    "region": "Andhra Pradesh",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "trainer",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Ali from LMES. I spoke with Nisha Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, secure payment gateway integration, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 15,
+    "salesAgentName": "Nisha Chauhan",
+    "customerName": "Vani Yadav",
+    "callTimestamp": "2025-07-27T16:41:00",
+    "callDurationSec": 413,
+    "region": "Andhra Pradesh",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 4990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "callback",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Nisha Chauhan from LMES. I spoke with Vani Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, certification issuance, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 16,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-06-19T12:45:00",
+    "callDurationSec": 135,
+    "region": "Delhi",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, mobile-friendly student app, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 17,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Mithun Sharma",
+    "callTimestamp": "2025-06-14T14:47:00",
+    "callDurationSec": 166,
+    "region": "Maharashtra",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Mithun Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, role-based access control, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 18,
+    "salesAgentName": "Karthik Kulkarni",
+    "customerName": "Aarav Ali",
+    "callTimestamp": "2025-07-03T16:59:00",
+    "callDurationSec": 655,
+    "region": "Delhi",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 24990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Karthik Kulkarni from LMES. I spoke with Aarav Ali regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: schedule demo."
+  },
+  {
+    "id": 19,
+    "salesAgentName": "Tara Menon",
+    "customerName": "Lokesh Mehta",
+    "callTimestamp": "2025-07-03T13:44:00",
+    "callDurationSec": 92,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 4990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Tara Menon from LMES. I spoke with Lokesh Mehta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, mobile-friendly student app, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: schedule demo."
+  },
+  {
+    "id": 20,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Diya Prasad",
+    "callTimestamp": "2025-08-15T10:50:00",
+    "callDurationSec": 200,
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 4990,
+    "callOutcome": "Follow-up",
+    "sentiment": "negative",
+    "tags": [
+      "trainer",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Diya Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, mobile-friendly student app, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: schedule demo."
+  },
+  {
+    "id": 21,
+    "salesAgentName": "Ishita Kumar",
+    "customerName": "Rakesh Bose",
+    "callTimestamp": "2025-07-25T11:17:00",
+    "callDurationSec": 339,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 49990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Kumar from LMES. I spoke with Rakesh Bose regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, customizable course paths, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: await payment link."
+  },
+  {
+    "id": 22,
+    "salesAgentName": "Krishna Pillai",
+    "customerName": "Sai Verma",
+    "callTimestamp": "2025-07-24T16:06:00",
+    "callDurationSec": 575,
+    "region": "Maharashtra",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 49990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Krishna Pillai from LMES. I spoke with Sai Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, mobile-friendly student app, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: send proposal."
+  },
+  {
+    "id": 23,
+    "salesAgentName": "Suresh Menon",
+    "customerName": "Mithun Ali",
+    "callTimestamp": "2025-08-22T09:52:00",
+    "callDurationSec": 194,
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 4990,
+    "callOutcome": "Interested",
+    "sentiment": "negative",
+    "tags": [
+      "trainer",
+      "demo-booked",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Suresh Menon from LMES. I spoke with Mithun Ali regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, certification issuance, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 24,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Ishita Hussain",
+    "callTimestamp": "2025-08-22T15:06:00",
+    "callDurationSec": 406,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Ishita Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, secure payment gateway integration, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 25,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Vivaan Subramani",
+    "callTimestamp": "2025-07-16T12:24:00",
+    "callDurationSec": 104,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 4990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "discount-asked",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Vivaan Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, secure payment gateway integration, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 26,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Rakesh Naidu",
+    "callTimestamp": "2025-08-23T11:15:00",
+    "callDurationSec": 857,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 24990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Rakesh Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, bulk student import and progress reports, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: schedule demo."
+  },
+  {
+    "id": 27,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Sai Verma",
+    "callTimestamp": "2025-07-24T17:21:00",
+    "callDurationSec": 667,
+    "region": "Delhi",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "hot-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Sai Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, customizable course paths, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: send proposal."
+  },
+  {
+    "id": 28,
+    "salesAgentName": "Zoya Gupta",
+    "customerName": "Rakesh Bose",
+    "callTimestamp": "2025-06-14T17:28:00",
+    "callDurationSec": 534,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Zoya Gupta from LMES. I spoke with Rakesh Bose regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, role-based access control, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 29,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Rohan Pillai",
+    "callTimestamp": "2025-07-04T14:27:00",
+    "callDurationSec": 171,
+    "region": "Gujarat",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "hot-lead",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Rohan Pillai regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, SCORM / xAPI support, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: no further action yet."
+  },
+  {
+    "id": 30,
+    "salesAgentName": "Aishwarya Patel",
+    "customerName": "Aarav Yadav",
+    "callTimestamp": "2025-08-08T14:44:00",
+    "callDurationSec": 276,
+    "region": "Delhi",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "callback",
+      "parent",
+      "cold-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aishwarya Patel from LMES. I spoke with Aarav Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, certification issuance, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 31,
+    "salesAgentName": "Karthik Kulkarni",
+    "customerName": "Mithun Singh",
+    "callTimestamp": "2025-07-23T17:06:00",
+    "callDurationSec": 896,
+    "region": "Gujarat",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 9990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked",
+      "student",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Karthik Kulkarni from LMES. I spoke with Mithun Singh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, customizable course paths, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: no further action yet."
+  },
+  {
+    "id": 32,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Krishna Kumar",
+    "callTimestamp": "2025-07-21T17:41:00",
+    "callDurationSec": 274,
+    "region": "Maharashtra",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 24990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "negative",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Krishna Kumar regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, certification issuance, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: await payment link."
+  },
+  {
+    "id": 33,
+    "salesAgentName": "Zoya Gupta",
+    "customerName": "Nisha Ali",
+    "callTimestamp": "2025-07-27T11:48:00",
+    "callDurationSec": 131,
+    "region": "Rajasthan",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "hot-lead",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Zoya Gupta from LMES. I spoke with Nisha Ali regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, automated assessments and grading, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: send proposal."
+  },
+  {
+    "id": 34,
+    "salesAgentName": "Karthik Kulkarni",
+    "customerName": "Nisha Chatterjee",
+    "callTimestamp": "2025-07-26T14:49:00",
+    "callDurationSec": 759,
+    "region": "Delhi",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Karthik Kulkarni from LMES. I spoke with Nisha Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: schedule demo."
+  },
+  {
+    "id": 35,
+    "salesAgentName": "Nisha Chauhan",
+    "customerName": "Suresh Kumar",
+    "callTimestamp": "2025-06-16T13:09:00",
+    "callDurationSec": 438,
+    "region": "Gujarat",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 14990,
+    "callOutcome": "Voicemail",
+    "sentiment": "negative",
+    "tags": [
+      "upsell",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Nisha Chauhan from LMES. I spoke with Suresh Kumar regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, mobile-friendly student app, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: send proposal."
+  },
+  {
+    "id": 36,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Ila Reddy",
+    "callTimestamp": "2025-07-17T12:01:00",
+    "callDurationSec": 154,
+    "region": "Maharashtra",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 14990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "upsell",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Ila Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, mobile-friendly student app, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: send proposal."
+  },
+  {
+    "id": 37,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Aarav Mehta",
+    "callTimestamp": "2025-07-12T12:37:00",
+    "callDurationSec": 525,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Aarav Mehta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, automated assessments and grading, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 38,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Zoya Sharma",
+    "callTimestamp": "2025-06-25T16:21:00",
+    "callDurationSec": 258,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "Not Interested",
+    "sentiment": "negative",
+    "tags": [
+      "cold-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Zoya Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, certification issuance, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 39,
+    "salesAgentName": "Pooja Subramani",
+    "customerName": "Rahul Verma",
+    "callTimestamp": "2025-07-23T11:34:00",
+    "callDurationSec": 686,
+    "region": "Andhra Pradesh",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 4990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "hot-lead",
+      "cold-lead",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Pooja Subramani from LMES. I spoke with Rahul Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, analytics dashboard for student progress, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 40,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Riya Ghosh",
+    "callTimestamp": "2025-06-01T09:41:00",
+    "callDurationSec": 818,
+    "region": "Andhra Pradesh",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 49990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "upsell",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Riya Ghosh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, live classes with recording, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 41,
+    "salesAgentName": "Sanjay Ali",
+    "customerName": "Lokesh Saxena",
+    "callTimestamp": "2025-06-10T10:54:00",
+    "callDurationSec": 812,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 4990,
+    "callOutcome": "Interested",
+    "sentiment": "negative",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Ali from LMES. I spoke with Lokesh Saxena regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, certification issuance, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 42,
+    "salesAgentName": "Nisha Chauhan",
+    "customerName": "Rakesh Bose",
+    "callTimestamp": "2025-07-22T11:42:00",
+    "callDurationSec": 468,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "upsell",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Nisha Chauhan from LMES. I spoke with Rakesh Bose regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, certification issuance, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 43,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Diya Prasad",
+    "callTimestamp": "2025-06-04T13:23:00",
+    "callDurationSec": 731,
+    "region": "Rajasthan",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 4990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "callback",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Diya Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, live classes with recording, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: await payment link."
+  },
+  {
+    "id": 44,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Mithun Singh",
+    "callTimestamp": "2025-06-12T14:26:00",
+    "callDurationSec": 160,
+    "region": "Tamil Nadu",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Mithun Singh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, bulk student import and progress reports, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 45,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Pranav Patel",
+    "callTimestamp": "2025-07-13T13:00:00",
+    "callDurationSec": 587,
+    "region": "Andhra Pradesh",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "callback",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Pranav Patel regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, secure payment gateway integration, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 46,
+    "salesAgentName": "Aishwarya Patel",
+    "customerName": "Priya Reddy",
+    "callTimestamp": "2025-07-20T13:04:00",
+    "callDurationSec": 143,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aishwarya Patel from LMES. I spoke with Priya Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 47,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-06-03T15:22:00",
+    "callDurationSec": 170,
+    "region": "Gujarat",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 9990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, integration with Google Classroom and Zoom, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: await payment link."
+  },
+  {
+    "id": 48,
+    "salesAgentName": "Sai Prasad",
+    "customerName": "Karthik Patel",
+    "callTimestamp": "2025-07-17T17:16:00",
+    "callDurationSec": 866,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "No Answer",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sai Prasad from LMES. I spoke with Karthik Patel regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, analytics dashboard for student progress, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 49,
+    "salesAgentName": "Rahul Iyer",
+    "customerName": "Rahul Gupta",
+    "callTimestamp": "2025-08-24T15:50:00",
+    "callDurationSec": 554,
+    "region": "Andhra Pradesh",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 4990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "callback",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Rahul Iyer from LMES. I spoke with Rahul Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, automated assessments and grading, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 50,
+    "salesAgentName": "Priya Mukherjee",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-06-21T14:48:00",
+    "callDurationSec": 210,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 14990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Mukherjee from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, role-based access control, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 51,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Sai Prasad",
+    "callTimestamp": "2025-08-03T16:05:00",
+    "callDurationSec": 253,
+    "region": "Rajasthan",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Sai Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, live classes with recording, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 52,
+    "salesAgentName": "Sana Gupta",
+    "customerName": "Aarav Ali",
+    "callTimestamp": "2025-06-03T11:51:00",
+    "callDurationSec": 667,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Gupta from LMES. I spoke with Aarav Ali regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, role-based access control, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 53,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Riya Ghosh",
+    "callTimestamp": "2025-07-08T15:08:00",
+    "callDurationSec": 541,
+    "region": "Andhra Pradesh",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 9990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Riya Ghosh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, mobile-friendly student app, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 54,
+    "salesAgentName": "Meera Khan",
+    "customerName": "Meera Iyer",
+    "callTimestamp": "2025-07-20T09:00:00",
+    "callDurationSec": 802,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "cold-lead",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Meera Khan from LMES. I spoke with Meera Iyer regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, customizable course paths, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: schedule demo."
+  },
+  {
+    "id": 55,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Abhinav Mukherjee",
+    "callTimestamp": "2025-08-02T16:13:00",
+    "callDurationSec": 324,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 24990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "hot-lead",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Abhinav Mukherjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, secure payment gateway integration, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: no further action yet."
+  },
+  {
+    "id": 56,
+    "salesAgentName": "Ishita Kumar",
+    "customerName": "Aditya Sharma",
+    "callTimestamp": "2025-07-15T11:03:00",
+    "callDurationSec": 662,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 49990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked",
+      "trainer",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Kumar from LMES. I spoke with Aditya Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, certification issuance, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: no further action yet."
+  },
+  {
+    "id": 57,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Pooja Hussain",
+    "callTimestamp": "2025-07-13T17:48:00",
+    "callDurationSec": 658,
+    "region": "Rajasthan",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Pooja Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, automated assessments and grading, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: no further action yet."
+  },
+  {
+    "id": 58,
+    "salesAgentName": "Aishwarya Patel",
+    "customerName": "Karthik Patel",
+    "callTimestamp": "2025-07-03T13:57:00",
+    "callDurationSec": 406,
+    "region": "Telangana",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aishwarya Patel from LMES. I spoke with Karthik Patel regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, role-based access control, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 59,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Karthik Menon",
+    "callTimestamp": "2025-06-07T12:04:00",
+    "callDurationSec": 696,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 4990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Karthik Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, certification issuance, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: no further action yet."
+  },
+  {
+    "id": 60,
+    "salesAgentName": "Meera Khan",
+    "customerName": "Sanjay Chatterjee",
+    "callTimestamp": "2025-08-24T13:21:00",
+    "callDurationSec": 217,
+    "region": "Telangana",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 4990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "cold-lead",
+      "callback",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Meera Khan from LMES. I spoke with Sanjay Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, customizable course paths, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: send proposal."
+  },
+  {
+    "id": 61,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Rakesh Bose",
+    "callTimestamp": "2025-06-03T16:20:00",
+    "callDurationSec": 729,
+    "region": "Kerala",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 4990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "cold-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Rakesh Bose regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, live classes with recording, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: send proposal."
+  },
+  {
+    "id": 62,
+    "salesAgentName": "Rahul Iyer",
+    "customerName": "Ishaan Mehta",
+    "callTimestamp": "2025-07-04T12:42:00",
+    "callDurationSec": 463,
+    "region": "Kerala",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "hot-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Rahul Iyer from LMES. I spoke with Ishaan Mehta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, analytics dashboard for student progress, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: no further action yet."
+  },
+  {
+    "id": 63,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-06-21T13:22:00",
+    "callDurationSec": 144,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "negative",
+    "tags": [
+      "cold-lead",
+      "student",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, mobile-friendly student app, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 64,
+    "salesAgentName": "Sana Gupta",
+    "customerName": "Sai Kulkarni",
+    "callTimestamp": "2025-06-03T09:06:00",
+    "callDurationSec": 814,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Gupta from LMES. I spoke with Sai Kulkarni regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 65,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Sanjay Chatterjee",
+    "callTimestamp": "2025-08-13T15:33:00",
+    "callDurationSec": 430,
+    "region": "Telangana",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "upsell",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Sanjay Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, automated assessments and grading, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 66,
+    "salesAgentName": "Vishal Patel",
+    "customerName": "Suresh Prasad",
+    "callTimestamp": "2025-08-15T09:48:00",
+    "callDurationSec": 334,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "cross-sell",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Patel from LMES. I spoke with Suresh Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, certification issuance, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: await payment link."
+  },
+  {
+    "id": 67,
+    "salesAgentName": "Sanjay Bose",
+    "customerName": "Lokesh Chauhan",
+    "callTimestamp": "2025-06-09T15:37:00",
+    "callDurationSec": 393,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Bose from LMES. I spoke with Lokesh Chauhan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, customizable course paths, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 68,
+    "salesAgentName": "Tara Menon",
+    "customerName": "Aarav Ali",
+    "callTimestamp": "2025-07-05T12:50:00",
+    "callDurationSec": 462,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 9990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Tara Menon from LMES. I spoke with Aarav Ali regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, analytics dashboard for student progress, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: await payment link."
+  },
+  {
+    "id": 69,
+    "salesAgentName": "Vishal Patel",
+    "customerName": "Pranav Menon",
+    "callTimestamp": "2025-06-22T15:18:00",
+    "callDurationSec": 598,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "negative",
+    "tags": [
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Patel from LMES. I spoke with Pranav Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, SCORM / xAPI support, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: no further action yet."
+  },
+  {
+    "id": 70,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Diya Prasad",
+    "callTimestamp": "2025-06-08T10:55:00",
+    "callDurationSec": 460,
+    "region": "Maharashtra",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 24990,
+    "callOutcome": "Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "student",
+      "demo-booked",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Diya Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, SCORM / xAPI support, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 71,
+    "salesAgentName": "Suresh Menon",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-07-12T11:48:00",
+    "callDurationSec": 93,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "cold-lead",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Suresh Menon from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, integration with Google Classroom and Zoom, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: no further action yet."
+  },
+  {
+    "id": 72,
+    "salesAgentName": "Karthik Kulkarni",
+    "customerName": "Nisha Chatterjee",
+    "callTimestamp": "2025-08-20T11:28:00",
+    "callDurationSec": 487,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Karthik Kulkarni from LMES. I spoke with Nisha Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, certification issuance, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 73,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-07-28T14:13:00",
+    "callDurationSec": 150,
+    "region": "Rajasthan",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "upsell",
+      "discount-asked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, certification issuance, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: no further action yet."
+  },
+  {
+    "id": 74,
+    "salesAgentName": "Sana Shetty",
+    "customerName": "Suresh Patel",
+    "callTimestamp": "2025-08-02T11:23:00",
+    "callDurationSec": 376,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Shetty from LMES. I spoke with Suresh Patel regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, mobile-friendly student app, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 75,
+    "salesAgentName": "Tara Menon",
+    "customerName": "Rohan Sharma",
+    "callTimestamp": "2025-07-04T10:48:00",
+    "callDurationSec": 396,
+    "region": "Rajasthan",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 14990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "upsell",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Tara Menon from LMES. I spoke with Rohan Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, mobile-friendly student app, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 76,
+    "salesAgentName": "Tara Menon",
+    "customerName": "Suresh Jadhav",
+    "callTimestamp": "2025-06-01T17:03:00",
+    "callDurationSec": 193,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Tara Menon from LMES. I spoke with Suresh Jadhav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, mobile-friendly student app, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 77,
+    "salesAgentName": "Rahul Iyer",
+    "customerName": "Aarav Yadav",
+    "callTimestamp": "2025-07-28T10:01:00",
+    "callDurationSec": 451,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 4990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "cross-sell",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Rahul Iyer from LMES. I spoke with Aarav Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, analytics dashboard for student progress, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 78,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Rakesh Naidu",
+    "callTimestamp": "2025-07-21T16:30:00",
+    "callDurationSec": 666,
+    "region": "West Bengal",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "parent",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Rakesh Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, live classes with recording, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: await payment link."
+  },
+  {
+    "id": 79,
+    "salesAgentName": "Nisha Chauhan",
+    "customerName": "Priya Gupta",
+    "callTimestamp": "2025-07-26T10:45:00",
+    "callDurationSec": 802,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 49990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "upsell",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Nisha Chauhan from LMES. I spoke with Priya Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, live classes with recording, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 80,
+    "salesAgentName": "Krishna Pillai",
+    "customerName": "Rahul Shetty",
+    "callTimestamp": "2025-08-16T14:19:00",
+    "callDurationSec": 654,
+    "region": "Maharashtra",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 49990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "student",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Krishna Pillai from LMES. I spoke with Rahul Shetty regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, bulk student import and progress reports, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 81,
+    "salesAgentName": "Sana Kumar",
+    "customerName": "Rohan Pillai",
+    "callTimestamp": "2025-06-09T14:08:00",
+    "callDurationSec": 413,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Kumar from LMES. I spoke with Rohan Pillai regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, mobile-friendly student app, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: await payment link."
+  },
+  {
+    "id": 82,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Ishita Subramani",
+    "callTimestamp": "2025-06-03T10:45:00",
+    "callDurationSec": 627,
+    "region": "Karnataka",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 4990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Ishita Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, bulk student import and progress reports, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 83,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Ananya Subramani",
+    "callTimestamp": "2025-08-03T10:35:00",
+    "callDurationSec": 370,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 14990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "upsell",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Ananya Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, integration with Google Classroom and Zoom, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: no further action yet."
+  },
+  {
+    "id": 84,
+    "salesAgentName": "Aishwarya Patel",
+    "customerName": "Ila Mukherjee",
+    "callTimestamp": "2025-07-04T16:12:00",
+    "callDurationSec": 442,
+    "region": "Tamil Nadu",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "hot-lead",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aishwarya Patel from LMES. I spoke with Ila Mukherjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, mobile-friendly student app, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: no further action yet."
+  },
+  {
+    "id": 85,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Ananya Subramani",
+    "callTimestamp": "2025-07-20T14:57:00",
+    "callDurationSec": 707,
+    "region": "Rajasthan",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 14990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "trainer",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Ananya Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, mobile-friendly student app, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: schedule demo."
+  },
+  {
+    "id": 86,
+    "salesAgentName": "Nisha Chauhan",
+    "customerName": "Rahul Shetty",
+    "callTimestamp": "2025-06-17T15:27:00",
+    "callDurationSec": 850,
+    "region": "Gujarat",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Nisha Chauhan from LMES. I spoke with Rahul Shetty regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, live classes with recording, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 87,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Dharshan Saxena",
+    "callTimestamp": "2025-08-24T14:58:00",
+    "callDurationSec": 806,
+    "region": "Delhi",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Dharshan Saxena regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, secure payment gateway integration, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 88,
+    "salesAgentName": "Zoya Gupta",
+    "customerName": "Diya Prasad",
+    "callTimestamp": "2025-06-25T12:28:00",
+    "callDurationSec": 351,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Zoya Gupta from LMES. I spoke with Diya Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, SCORM / xAPI support, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 89,
+    "salesAgentName": "Sana Kumar",
+    "customerName": "Priya Reddy",
+    "callTimestamp": "2025-06-11T09:22:00",
+    "callDurationSec": 693,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "neutral",
+    "tags": [
+      "student",
+      "hot-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Kumar from LMES. I spoke with Priya Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, analytics dashboard for student progress, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 90,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Lokesh Chauhan",
+    "callTimestamp": "2025-06-20T16:02:00",
+    "callDurationSec": 92,
+    "region": "Maharashtra",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Lokesh Chauhan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, analytics dashboard for student progress, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: schedule demo."
+  },
+  {
+    "id": 91,
+    "salesAgentName": "Vishal Patel",
+    "customerName": "Diya Prasad",
+    "callTimestamp": "2025-06-10T13:06:00",
+    "callDurationSec": 361,
+    "region": "Karnataka",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "neutral",
+    "tags": [
+      "cold-lead",
+      "demo-booked",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Patel from LMES. I spoke with Diya Prasad regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, SCORM / xAPI support, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: send proposal."
+  },
+  {
+    "id": 92,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Dharshan Patel",
+    "callTimestamp": "2025-08-24T11:14:00",
+    "callDurationSec": 868,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 4990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Dharshan Patel regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, integration with Google Classroom and Zoom, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: no further action yet."
+  },
+  {
+    "id": 93,
+    "salesAgentName": "Zoya Gupta",
+    "customerName": "Krishna Gupta",
+    "callTimestamp": "2025-08-05T17:21:00",
+    "callDurationSec": 500,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 14990,
+    "callOutcome": "No Answer",
+    "sentiment": "neutral",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Zoya Gupta from LMES. I spoke with Krishna Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, role-based access control, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 94,
+    "salesAgentName": "Sana Shetty",
+    "customerName": "Karthik Hussain",
+    "callTimestamp": "2025-08-07T17:06:00",
+    "callDurationSec": 773,
+    "region": "Delhi",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "cross-sell",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Shetty from LMES. I spoke with Karthik Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, analytics dashboard for student progress, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: no further action yet."
+  },
+  {
+    "id": 95,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Rohan Pillai",
+    "callTimestamp": "2025-06-26T09:35:00",
+    "callDurationSec": 500,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 24990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Rohan Pillai regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, secure payment gateway integration, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 96,
+    "salesAgentName": "Ishaan Iyer",
+    "customerName": "Yamini Khan",
+    "callTimestamp": "2025-07-28T16:03:00",
+    "callDurationSec": 278,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 9990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishaan Iyer from LMES. I spoke with Yamini Khan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, certification issuance, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: schedule demo."
+  },
+  {
+    "id": 97,
+    "salesAgentName": "Sai Prasad",
+    "customerName": "Ananya Khan",
+    "callTimestamp": "2025-06-24T17:28:00",
+    "callDurationSec": 889,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "upsell",
+      "callback",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sai Prasad from LMES. I spoke with Ananya Khan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, integration with Google Classroom and Zoom, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 98,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Ila Sharma",
+    "callTimestamp": "2025-08-19T16:55:00",
+    "callDurationSec": 224,
+    "region": "Kerala",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Ila Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, role-based access control, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: send proposal."
+  },
+  {
+    "id": 99,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Krishna Pillai",
+    "callTimestamp": "2025-07-03T10:48:00",
+    "callDurationSec": 757,
+    "region": "West Bengal",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Krishna Pillai regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, mobile-friendly student app, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: await payment link."
+  },
+  {
+    "id": 100,
+    "salesAgentName": "Rahul Iyer",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-07-19T16:02:00",
+    "callDurationSec": 211,
+    "region": "Telangana",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 14990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "cross-sell",
+      "callback",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Rahul Iyer from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, SCORM / xAPI support, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: no further action yet."
+  },
+  {
+    "id": 101,
+    "salesAgentName": "Krishna Pillai",
+    "customerName": "Aarav Mehta",
+    "callTimestamp": "2025-08-18T12:23:00",
+    "callDurationSec": 849,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "negative",
+    "tags": [
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Krishna Pillai from LMES. I spoke with Aarav Mehta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, customizable course paths, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: send proposal."
+  },
+  {
+    "id": 102,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-08-24T09:03:00",
+    "callDurationSec": 896,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 49990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "upsell",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, mobile-friendly student app, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: await payment link."
+  },
+  {
+    "id": 103,
+    "salesAgentName": "Ishita Kumar",
+    "customerName": "Gayathri Chauhan",
+    "callTimestamp": "2025-07-08T11:16:00",
+    "callDurationSec": 495,
+    "region": "West Bengal",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "upsell",
+      "cold-lead",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Kumar from LMES. I spoke with Gayathri Chauhan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, SCORM / xAPI support, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  },
+  {
+    "id": 104,
+    "salesAgentName": "Sana Kumar",
+    "customerName": "Rahul Shetty",
+    "callTimestamp": "2025-08-04T15:32:00",
+    "callDurationSec": 824,
+    "region": "Gujarat",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 4990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Kumar from LMES. I spoke with Rahul Shetty regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, bulk student import and progress reports, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 105,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Nisha Saxena",
+    "callTimestamp": "2025-07-01T11:35:00",
+    "callDurationSec": 803,
+    "region": "Delhi",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Nisha Saxena regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, integration with Google Classroom and Zoom, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: await payment link."
+  },
+  {
+    "id": 106,
+    "salesAgentName": "Suresh Menon",
+    "customerName": "Aarav Yadav",
+    "callTimestamp": "2025-07-20T16:49:00",
+    "callDurationSec": 296,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 14990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "discount-asked",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Suresh Menon from LMES. I spoke with Aarav Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, customizable course paths, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: schedule demo."
+  },
+  {
+    "id": 107,
+    "salesAgentName": "Sana Kumar",
+    "customerName": "Priya Gupta",
+    "callTimestamp": "2025-08-24T16:57:00",
+    "callDurationSec": 613,
+    "region": "Kerala",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Kumar from LMES. I spoke with Priya Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, live classes with recording, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: no further action yet."
+  },
+  {
+    "id": 108,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Naveen Naidu",
+    "callTimestamp": "2025-08-11T15:04:00",
+    "callDurationSec": 666,
+    "region": "Tamil Nadu",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 14990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Naveen Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, secure payment gateway integration, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: schedule demo."
+  },
+  {
+    "id": 109,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Ishita Chatterjee",
+    "callTimestamp": "2025-08-19T14:37:00",
+    "callDurationSec": 475,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 4990,
+    "callOutcome": "Voicemail",
+    "sentiment": "negative",
+    "tags": [
+      "parent",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Ishita Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, role-based access control, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 110,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Riya Ghosh",
+    "callTimestamp": "2025-06-10T09:00:00",
+    "callDurationSec": 808,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 24990,
+    "callOutcome": "Interested",
+    "sentiment": "negative",
+    "tags": [
+      "callback",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Riya Ghosh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, automated assessments and grading, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: no further action yet."
+  },
+  {
+    "id": 111,
+    "salesAgentName": "Sanjay Bose",
+    "customerName": "Lokesh Chauhan",
+    "callTimestamp": "2025-07-06T12:00:00",
+    "callDurationSec": 594,
+    "region": "Gujarat",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Bose from LMES. I spoke with Lokesh Chauhan regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, integration with Google Classroom and Zoom, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 112,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Sai Verma",
+    "callTimestamp": "2025-07-11T10:32:00",
+    "callDurationSec": 716,
+    "region": "Maharashtra",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Sai Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, integration with Google Classroom and Zoom, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: send proposal."
+  },
+  {
+    "id": 113,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Vivaan Subramani",
+    "callTimestamp": "2025-08-16T13:40:00",
+    "callDurationSec": 820,
+    "region": "Maharashtra",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "callback",
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Vivaan Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, analytics dashboard for student progress, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 114,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Arjun Menon",
+    "callTimestamp": "2025-07-01T09:33:00",
+    "callDurationSec": 860,
+    "region": "Maharashtra",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 49990,
+    "callOutcome": "Interested",
+    "sentiment": "negative",
+    "tags": [
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Arjun Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, bulk student import and progress reports, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: schedule demo."
+  },
+  {
+    "id": 115,
+    "salesAgentName": "Pooja Subramani",
+    "customerName": "Tara Sharma",
+    "callTimestamp": "2025-07-17T10:09:00",
+    "callDurationSec": 551,
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Pooja Subramani from LMES. I spoke with Tara Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, certification issuance, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: schedule demo."
+  },
+  {
+    "id": 116,
+    "salesAgentName": "Sana Shetty",
+    "customerName": "Aarav Mehta",
+    "callTimestamp": "2025-06-09T09:48:00",
+    "callDurationSec": 445,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "cold-lead",
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Shetty from LMES. I spoke with Aarav Mehta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, secure payment gateway integration, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 117,
+    "salesAgentName": "Sanjay Bose",
+    "customerName": "Sanjay Chatterjee",
+    "callTimestamp": "2025-07-16T16:48:00",
+    "callDurationSec": 203,
+    "region": "West Bengal",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "cold-lead",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Bose from LMES. I spoke with Sanjay Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like automated assessments and grading, customizable course paths, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 118,
+    "salesAgentName": "Sanjay Ali",
+    "customerName": "Nisha Naidu",
+    "callTimestamp": "2025-07-24T10:01:00",
+    "callDurationSec": 370,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 9990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Ali from LMES. I spoke with Nisha Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, bulk student import and progress reports, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: schedule demo."
+  },
+  {
+    "id": 119,
+    "salesAgentName": "Sanjay Ali",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-07-08T14:57:00",
+    "callDurationSec": 713,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 4990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "student",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Ali from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: await payment link."
+  },
+  {
+    "id": 120,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Nisha Naidu",
+    "callTimestamp": "2025-06-13T11:16:00",
+    "callDurationSec": 305,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 49990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Nisha Naidu regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, analytics dashboard for student progress, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 121,
+    "salesAgentName": "Vishal Jadhav",
+    "customerName": "Lokesh Saxena",
+    "callTimestamp": "2025-06-01T10:49:00",
+    "callDurationSec": 764,
+    "region": "Karnataka",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 24990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Jadhav from LMES. I spoke with Lokesh Saxena regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, mobile-friendly student app, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 122,
+    "salesAgentName": "Sana Gupta",
+    "customerName": "Arjun Menon",
+    "callTimestamp": "2025-06-21T09:22:00",
+    "callDurationSec": 310,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 4990,
+    "callOutcome": "No Answer",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Gupta from LMES. I spoke with Arjun Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, customizable course paths, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: send proposal."
+  },
+  {
+    "id": 123,
+    "salesAgentName": "Aarav Yadav",
+    "customerName": "Lokesh Nair",
+    "callTimestamp": "2025-08-13T09:29:00",
+    "callDurationSec": 239,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "hot-lead",
+      "cold-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Yadav from LMES. I spoke with Lokesh Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, secure payment gateway integration, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: no further action yet."
+  },
+  {
+    "id": 124,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Pooja Verma",
+    "callTimestamp": "2025-07-21T13:51:00",
+    "callDurationSec": 487,
+    "region": "Delhi",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "callback",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Pooja Verma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, customizable course paths, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: await payment link."
+  },
+  {
+    "id": 125,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-07-03T14:26:00",
+    "callDurationSec": 714,
+    "region": "Gujarat",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "YouTube",
+    "amountQuoted": 9990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, SCORM / xAPI support, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 126,
+    "salesAgentName": "Vishal Patel",
+    "customerName": "Lokesh Iyer",
+    "callTimestamp": "2025-07-25T11:14:00",
+    "callDurationSec": 133,
+    "region": "Tamil Nadu",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 24990,
+    "callOutcome": "Follow-up",
+    "sentiment": "positive",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Patel from LMES. I spoke with Lokesh Iyer regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, analytics dashboard for student progress, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 127,
+    "salesAgentName": "Rahul Iyer",
+    "customerName": "Lokesh Iyer",
+    "callTimestamp": "2025-07-07T09:18:00",
+    "callDurationSec": 699,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 14990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "cross-sell",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Rahul Iyer from LMES. I spoke with Lokesh Iyer regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, automated assessments and grading, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 128,
+    "salesAgentName": "Sana Gupta",
+    "customerName": "Priya Gupta",
+    "callTimestamp": "2025-08-08T14:53:00",
+    "callDurationSec": 682,
+    "region": "Kerala",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 9990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "parent",
+      "hot-lead",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Gupta from LMES. I spoke with Priya Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, live classes with recording, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 129,
+    "salesAgentName": "Sana Khan",
+    "customerName": "Aarav Jadhav",
+    "callTimestamp": "2025-08-12T15:55:00",
+    "callDurationSec": 751,
+    "region": "Delhi",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Khan from LMES. I spoke with Aarav Jadhav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, mobile-friendly student app, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: no further action yet."
+  },
+  {
+    "id": 130,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Sai Ghosh",
+    "callTimestamp": "2025-07-28T15:08:00",
+    "callDurationSec": 491,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 49990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "upsell",
+      "trainer",
+      "student"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Sai Ghosh regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, mobile-friendly student app, and integration with Google Classroom and Zoom and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 131,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Ananya Subramani",
+    "callTimestamp": "2025-06-06T14:25:00",
+    "callDurationSec": 99,
+    "region": "Delhi",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 49990,
+    "callOutcome": "No Answer",
+    "sentiment": "negative",
+    "tags": [
+      "student",
+      "demo-booked",
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Ananya Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, analytics dashboard for student progress, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 132,
+    "salesAgentName": "Sanjay Ali",
+    "customerName": "Nisha Hussain",
+    "callTimestamp": "2025-07-10T14:35:00",
+    "callDurationSec": 447,
+    "region": "Kerala",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Ali from LMES. I spoke with Nisha Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, role-based access control, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 133,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Sanjay Reddy",
+    "callTimestamp": "2025-06-06T09:44:00",
+    "callDurationSec": 890,
+    "region": "Andhra Pradesh",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer",
+      "cold-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Sanjay Reddy regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, integration with Google Classroom and Zoom, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: schedule demo."
+  },
+  {
+    "id": 134,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Nisha Hussain",
+    "callTimestamp": "2025-07-28T13:01:00",
+    "callDurationSec": 159,
+    "region": "West Bengal",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 9990,
+    "callOutcome": "Follow-up",
+    "sentiment": "neutral",
+    "tags": [
+      "hot-lead",
+      "cold-lead",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Nisha Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, certification issuance, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Follow-up. Next step: send proposal."
+  },
+  {
+    "id": 135,
+    "salesAgentName": "Vishal Patel",
+    "customerName": "Krishna Gupta",
+    "callTimestamp": "2025-07-13T13:51:00",
+    "callDurationSec": 721,
+    "region": "Kerala",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "Voicemail",
+    "sentiment": "neutral",
+    "tags": [
+      "student",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Vishal Patel from LMES. I spoke with Krishna Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, role-based access control, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: no further action yet."
+  },
+  {
+    "id": 136,
+    "salesAgentName": "Sana Kumar",
+    "customerName": "Priya Yadav",
+    "callTimestamp": "2025-06-05T13:22:00",
+    "callDurationSec": 848,
+    "region": "Rajasthan",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 4990,
+    "callOutcome": "No Answer",
+    "sentiment": "positive",
+    "tags": [
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sana Kumar from LMES. I spoke with Priya Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like secure payment gateway integration, live classes with recording, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: schedule demo."
+  },
+  {
+    "id": 137,
+    "salesAgentName": "Aishwarya Patel",
+    "customerName": "Aarav Jadhav",
+    "callTimestamp": "2025-06-07T10:22:00",
+    "callDurationSec": 706,
+    "region": "Tamil Nadu",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 49990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aishwarya Patel from LMES. I spoke with Aarav Jadhav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like live classes with recording, mobile-friendly student app, and mobile-friendly student app and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 138,
+    "salesAgentName": "Meera Khan",
+    "customerName": "Sanjay Chatterjee",
+    "callTimestamp": "2025-07-06T17:27:00",
+    "callDurationSec": 364,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "positive",
+    "tags": [
+      "cross-sell",
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Meera Khan from LMES. I spoke with Sanjay Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, certification issuance, and live classes with recording and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: send proposal."
+  },
+  {
+    "id": 139,
+    "salesAgentName": "Sanjay Bose",
+    "customerName": "Nisha Saxena",
+    "callTimestamp": "2025-07-31T09:45:00",
+    "callDurationSec": 254,
+    "region": "Rajasthan",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Sanjay Bose from LMES. I spoke with Nisha Saxena regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, SCORM / xAPI support, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: send proposal."
+  },
+  {
+    "id": 140,
+    "salesAgentName": "Ishita Kumar",
+    "customerName": "Ananya Das",
+    "callTimestamp": "2025-08-02T14:11:00",
+    "callDurationSec": 670,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "LinkedIn",
+    "amountQuoted": 24990,
+    "callOutcome": "No Answer",
+    "sentiment": "neutral",
+    "tags": [
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Kumar from LMES. I spoke with Ananya Das regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, live classes with recording, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: no further action yet."
+  },
+  {
+    "id": 141,
+    "salesAgentName": "Mithun Singh",
+    "customerName": "Aarav Yadav",
+    "callTimestamp": "2025-08-15T10:41:00",
+    "callDurationSec": 329,
+    "region": "Telangana",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 9990,
+    "callOutcome": "Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked",
+      "trainer",
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Singh from LMES. I spoke with Aarav Yadav regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, certification issuance, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: send proposal."
+  },
+  {
+    "id": 142,
+    "salesAgentName": "Meera Khan",
+    "customerName": "Sai Nair",
+    "callTimestamp": "2025-07-31T16:11:00",
+    "callDurationSec": 506,
+    "region": "Karnataka",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 9990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Meera Khan from LMES. I spoke with Sai Nair regarding our LMES LMS offering and walked them through the key value propositions. I explained features like role-based access control, customizable course paths, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about support SLAs, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: await payment link."
+  },
+  {
+    "id": 143,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Rahul Gupta",
+    "callTimestamp": "2025-07-01T13:45:00",
+    "callDurationSec": 602,
+    "region": "Karnataka",
+    "language": "Hindi",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Not Interested",
+    "sentiment": "neutral",
+    "tags": [
+      "student",
+      "discount-asked",
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Rahul Gupta regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, customizable course paths, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about pricing, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Not Interested. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 144,
+    "salesAgentName": "Priya Patel",
+    "customerName": "Vivaan Subramani",
+    "callTimestamp": "2025-08-01T14:28:00",
+    "callDurationSec": 384,
+    "region": "Andhra Pradesh",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Referral",
+    "amountQuoted": 49990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "parent"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Priya Patel from LMES. I spoke with Vivaan Subramani regarding our LMES LMS offering and walked them through the key value propositions. I explained features like mobile-friendly student app, integration with Google Classroom and Zoom, and SCORM / xAPI support and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: follow-up in 3 days."
+  },
+  {
+    "id": 145,
+    "salesAgentName": "Aarav Rao",
+    "customerName": "Vivaan Menon",
+    "callTimestamp": "2025-07-08T15:34:00",
+    "callDurationSec": 342,
+    "region": "West Bengal",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 14990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "neutral",
+    "tags": [
+      "demo-booked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Aarav Rao from LMES. I spoke with Vivaan Menon regarding our LMES LMS offering and walked them through the key value propositions. I explained features like analytics dashboard for student progress, secure payment gateway integration, and analytics dashboard for student progress and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: schedule demo."
+  },
+  {
+    "id": 146,
+    "salesAgentName": "Krishna Pillai",
+    "customerName": "Karthik Chatterjee",
+    "callTimestamp": "2025-07-02T13:35:00",
+    "callDurationSec": 783,
+    "region": "Kerala",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Event",
+    "amountQuoted": 9990,
+    "callOutcome": "Voicemail",
+    "sentiment": "positive",
+    "tags": [
+      "trainer"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Krishna Pillai from LMES. I spoke with Karthik Chatterjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like bulk student import and progress reports, mobile-friendly student app, and automated assessments and grading and how these solve common administrative pain points for schools and training centers. The customer raised concerns about integration with existing systems, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Voicemail. Next step: offer 10% discount for pilot."
+  },
+  {
+    "id": 147,
+    "salesAgentName": "Mithun Patel",
+    "customerName": "Ishita Mukherjee",
+    "callTimestamp": "2025-06-21T14:41:00",
+    "callDurationSec": 395,
+    "region": "Telangana",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 49990,
+    "callOutcome": "Demo Booked",
+    "sentiment": "positive",
+    "tags": [
+      "cold-lead",
+      "discount-asked"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Mithun Patel from LMES. I spoke with Ishita Mukherjee regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, customizable course paths, and secure payment gateway integration and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Demo Booked. Next step: send proposal."
+  },
+  {
+    "id": 148,
+    "salesAgentName": "Karthik Kulkarni",
+    "customerName": "Karthik Hussain",
+    "callTimestamp": "2025-06-14T09:00:00",
+    "callDurationSec": 272,
+    "region": "Gujarat",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Facebook Ads",
+    "amountQuoted": 14990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "student",
+      "hot-lead",
+      "upsell"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Karthik Kulkarni from LMES. I spoke with Karthik Hussain regarding our LMES LMS offering and walked them through the key value propositions. I explained features like integration with Google Classroom and Zoom, integration with Google Classroom and Zoom, and customizable course paths and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: send proposal."
+  },
+  {
+    "id": 149,
+    "salesAgentName": "Ananya Prasad",
+    "customerName": "Vani Kumar",
+    "callTimestamp": "2025-06-09T12:56:00",
+    "callDurationSec": 223,
+    "region": "Rajasthan",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Website",
+    "amountQuoted": 24990,
+    "callOutcome": "No Answer",
+    "sentiment": "negative",
+    "tags": [
+      "hot-lead"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ananya Prasad from LMES. I spoke with Vani Kumar regarding our LMES LMS offering and walked them through the key value propositions. I explained features like certification issuance, bulk student import and progress reports, and bulk student import and progress reports and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: No Answer. Next step: send proposal."
+  },
+  {
+    "id": 150,
+    "salesAgentName": "Tara Menon",
+    "customerName": "Mithun Sharma",
+    "callTimestamp": "2025-07-04T17:23:00",
+    "callDurationSec": 639,
+    "region": "Telangana",
+    "language": "English",
+    "product": "LMES LMS",
+    "leadSource": "Walk-in",
+    "amountQuoted": 24990,
+    "callOutcome": "Payment Pending",
+    "sentiment": "positive",
+    "tags": [
+      "callback"
+    ],
+    "voiceNoteFile": "/mnt/data/voice_notes/voice_note_lms_placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Tara Menon from LMES. I spoke with Mithun Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like customizable course paths, integration with Google Classroom and Zoom, and certification issuance and how these solve common administrative pain points for schools and training centers. The customer raised concerns about student adoption, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Payment Pending. Next step: offer 10% discount for pilot."
+  }
+]

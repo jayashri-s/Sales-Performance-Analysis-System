@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "salesAgentName": "Ishita Naidu",
+    "customerName": "Tara Sharma",
+    "callTimestamp": "2025-07-12T11:29:00",
+    "callDurationSec": 514,
+    "region": "Tamil Nadu",
+    "language": "Tamil",
+    "product": "LMES LMS",
+    "leadSource": "Email Campaign",
+    "amountQuoted": 14990,
+    "callOutcome": "Interested",
+    "sentiment": "positive",
+    "tags": ["cross-sell", "demo-booked", "hot-lead"],
+    "voiceNoteFile": "/voice_notes/placeholder.wav",
+    "voiceNoteTranscript": "Hello, this is Ishita Naidu from LMES. I spoke with Tara Sharma regarding our LMES LMS offering and walked them through the key value propositions. I explained features like SCORM / xAPI support, customizable course paths, and role-based access control and how these solve common administrative pain points for schools and training centers. The customer raised concerns about onboarding time, and I reassured them by describing our flexible pricing plans, free migration assistance, and a dedicated onboarding specialist. We discussed expected timelines and delivered a tentative plan: pilot within two weeks, followed by scaled rollout after user testing. Outcome noted: Interested. Next step: await payment link."
+  }
+]
